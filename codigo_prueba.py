@@ -1,9 +1,11 @@
 print('hello word')
 #Agrego mas comnetarios
-#Mentira
+
 #Voy a agrewgar codigo intermedio
-#Esto es un comentario
 
 
-def prueba ()
-    return 'hola'
+
+def prueba ():
+    return 'lukas le gusta por el culo'
+
+print(prueba())
