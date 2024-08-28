@@ -5,5 +5,5 @@ print('hello word')
 #Esto es un comentario
 
 
-def prueba ()
+def prueba ():
     return 'hola'
