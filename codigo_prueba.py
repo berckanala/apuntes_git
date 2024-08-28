@@ -4,10 +4,13 @@ print('hello word')
 #Voy a agrewgar codigo intermedio
 
 
-
+holi = 23
 
 def prueba ():
-    return 'lukas le gusta por el culo'
+    return 'lukas le gusta por el culo bien apretado'
 
 print(prueba())
+
+def lukas():
+    return "me gusta la pirula"
 
