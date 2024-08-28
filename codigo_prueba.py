@@ -1,5 +1,5 @@
 print('hello word')
 
-print("El lukas se la come entera")
+#Mentira
 
-print("si joke")
+#Esto es un comentario
